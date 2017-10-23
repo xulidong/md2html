@@ -1,0 +1,28 @@
+{
+  "name": "md2html",
+  "version": "1.0.0",
+  "description": "convert markdown to html",
+  "main": "main.js",
+  "dependencies": {
+    "marked": "^0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xulidong/md2html.git"
+  },
+  "keywords": [
+    "md",
+    "markdown",
+    "html"
+  ],
+  "author": "xulidong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xulidong/md2html/issues"
+  },
+  "homepage": "https://github.com/xulidong/md2html#readme"
+}
